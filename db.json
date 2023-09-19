@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "firstName": "Parul",
+      "lastName": "Sahni",
+      "code": "cc 44",
+      "designation": "aascc",
+      "email": "parulsahni3282@gmail.com",
+      "manager": "mmm",
+      "id": 1
+    },
+    {
+      "firstName": "ABCDEF",
+      "lastName": "GHIJK",
+      "code": "ERT 123",
+      "designation": "MANAGER",
+      "email": "QQ@GMAIL.COM",
+      "manager": "PQR",
+      "id": 2
+    },
+    {
+      "firstName": "Parul",
+      "lastName": "Sahni",
+      "code": "Gsi gi 890",
+      "designation": "trainee",
+      "email": "parulsahni3282@gmail.com",
+      "manager": "abc",
+      "id": 4
+    }
+  ]
+}
